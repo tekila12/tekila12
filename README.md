@@ -1,7 +1,7 @@
 ### Hi I'm Ajnur 👋
 
 
-I am Ajnur. I'm a self taught front end developer.
+I am Ajnur. I'm a self taught front end developer. I Spend most of time learning new technologies and new stuff.
 
 Here are some ideas to get you started:
 
