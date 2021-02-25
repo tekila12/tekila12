@@ -1,6 +1,6 @@
 ### Hi I'm Ajnur 👋
 
-<!--
+
 I am Ajnur. I'm a self taught front end developer.
 
 Here are some ideas to get you started:
