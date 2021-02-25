@@ -6,7 +6,7 @@ I am Ajnur. I'm a self taught front end developer. I Spend most of time learning
 Here are some ideas to get you started:
 
 - 🔭 Here is how you can reach me
-- 
+ 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/ajnur-radovic)
 
 
