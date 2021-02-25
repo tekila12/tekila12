@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Here is how you can reach me
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Ajnur](www.linkedin.com/in/ajnur-radovic)
-[![Gmail](https://mail.google.com/mail/u/0/#inbox) Gmail 
+[![Gmail](https://www.gannett-cdn.com/-mm-/1d20aed76516db22be4c24904f1a271395ec6a76/c=10-0-569-419/local/-/media/2017/04/22/USATODAY/usatsports/gmail-icon-pixabay_large.png?quality=50&width=640) Gmail 
 
 - 🌱 I’m currently learning ... Node React Native 
 - 👯 I’m looking to collaborate on ...
