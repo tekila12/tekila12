@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Here is how you can reach me
  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/ajnur-radovic)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Ajnur](www.linkedin.com/in/ajnur-radovic)
 
 
 - 🌱 I’m currently learning ... Node React Native 
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:  Fun fact: I play games and go to the GYM very often.
+
