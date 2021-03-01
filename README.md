@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Ajnur](www.linkedin.com/in/ajnur-radovic)
 <a href='mailto:ajnurradovic1@gmail.com'>
-<img src='https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63' style="height:20px; width:20px;"/>
+<img src='https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1614607999~hmac=30dbb3e1540915fb1f8161f7054aeaf0' style="height:20px; width:20px;"/>
 </a>
 
 - 🌱 I’m currently learning ... Node React Native 
