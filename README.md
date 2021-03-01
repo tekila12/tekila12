@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Ajnur](www.linkedin.com/in/ajnur-radovic)
 <a href='mailto:ajnurradovic1@gmail.com'>
-<img src=https://findicons.com/files/icons/1696/once/48/mail.png' style="height:20px; width:20px;"/>
+<img src='https://findicons.com/files/icons/1696/once/48/mail.png' style="height:20px; width:20px;"/>
 </a>
 
 - 🌱 I’m currently learning Node React Native 
