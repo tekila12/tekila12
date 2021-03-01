@@ -3,7 +3,6 @@
 
 I am Ajnur. I'm a self taught front end developer. I Spend most of time learning new technologies and new stuff.
 
-Here are some ideas to get you started:
 
 - 🔭 Here is how you can reach me
  
@@ -37,4 +36,4 @@ Profile Visits
 
 
 GithubStats
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/tekila12)
+[![GitHub](https://github-readme-stats-tekila12.vercel.app/api?username=tekila12&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/tekila12)
