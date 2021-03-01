@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Ajnur](https://linkedin.com/in/ajnur-radovic)
 <a href='mailto:ajnurradovic1@gmail.com'>
-<img src='https://findicons.com/files/icons/1696/once/48/mail.png' style="height:20px; width:20px;"/>
+<img src='https://findicons.com/files/icons/1696/once/48/mail.png' width="5" height="6" alt='Ajnur'/>
 </a>
 
 - 🌱 I’m currently learning Node React Native 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 
 - 📫
 - 😄 
-- ⚡ Fun fact:  Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the GYM very often.
 
