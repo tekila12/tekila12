@@ -27,9 +27,9 @@ I am Ajnur. I'm a self taught front end developer. I spend most of time learning
 <strong>Top Technologies</strong>
 
 <a>
-<img src='https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png' width="30" height="30" alt='Ajnur'></img> 
-<img src='https://img.flaticon.com/icons/png/512/732/732190.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF' width="30" height="30" alt='Ajnur'></img> 
-<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--48aco8O5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/jsv2fncioupdbtf0sbir.png' width="30" height="30" alt='Ajnur'></img> 
+<img src='https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png' width="40" height="40" alt='Ajnur'></img> 
+<img src='https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png' width="40" height="40" alt='Ajnur'></img> 
+<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--48aco8O5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/jsv2fncioupdbtf0sbir.png' width="124" height="24" alt='Ajnur'></img> 
 </a>
 
 <img src='https://camo.githubusercontent.com/82cd498d68f1929233bffb5d3bd2229cb0a97728b4983ee3a607c1941a9c9b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446'/>
@@ -42,6 +42,7 @@ My Resume
 <a href='https://windows-rec.netlify.app/images/icons/Ajnur%20Web%20Resume.pdf'>
  <img src='https://img2.pngio.com/resume-icons-free-download-png-and-svg-resume-icon-png-200_200.png' >
  </img>
+ My Resume
 </a>
 
 <strong>Profile Visits</strong> 
