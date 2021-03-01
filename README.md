@@ -1,7 +1,7 @@
 ### Hi I'm Ajnur 👋
 
 
-I am Ajnur. I'm a self taught front end developer. I Spend most of time learning new technologies and new stuff.
+I am Ajnur. I'm a self taught front end developer. I spend most of time learning new technologies, and new stuff.
 
 
 - 🔭 Here is how you can reach me
@@ -27,9 +27,7 @@ I am Ajnur. I'm a self taught front end developer. I Spend most of time learning
 <strong>Top Technologies</strong>
 
 
-<img src='https://imgur.com/Kz4kRcf' width:'24' height:'24'> </img>
-<img src='https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png' width:'38' height:'28' />
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEnwHnLiB0PQ_u-TQ8rFhI1q0hJKiR7arjQ&usqp=CAU'  width:'38' height:'28' />
+
 
 <img src='https://camo.githubusercontent.com/8e4a668bb3e69b0ab12ff19e5038b089ea85543993268a965f6cebe6ca2b4d9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642'/>
 <img src='https://camo.githubusercontent.com/82cd498d68f1929233bffb5d3bd2229cb0a97728b4983ee3a607c1941a9c9b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446'/>
