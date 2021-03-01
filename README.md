@@ -38,5 +38,11 @@ Profile Visits
 
 
 
+Github Stats
+
 GithubStats
-[![GitHub](https://github-readme-stats-tekila12/api?username=tekila12&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/tekila12)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tekila12&theme=radical&show_icons=true&count_private=true)
+
+
+Most used languages
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tekila12)
