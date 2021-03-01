@@ -24,7 +24,8 @@ I am Ajnur. I'm a self taught front end developer. I Spend most of time learning
 
 
 
-Top Technologies
+<strong>Top Technologies</strong>
+
 <img src='https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png' width:'24' height:'24'> </img>
 <img src='https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png' width:'38' height:'28' />
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEnwHnLiB0PQ_u-TQ8rFhI1q0hJKiR7arjQ&usqp=CAU'  width:'38' height:'28' />
@@ -32,19 +33,19 @@ Top Technologies
 <img src='https://camo.githubusercontent.com/82cd498d68f1929233bffb5d3bd2229cb0a97728b4983ee3a607c1941a9c9b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446'/>
 
 
-Profile Visits 
+<strong>Profile Visits</strong> 
 
 ![Visitor Count](https://profile-counter.glitch.me/{tekila12}/count.svg)
 
 
 
 
-GithubStats
+<strong>GithubStats</strong>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tekila12&theme=radical&show_icons=true&count_private=true)
 
 
 
-Most used languages
+<strong>Most used languages</strong>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tekila12)
