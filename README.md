@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Here is how you can reach me
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Ajnur](www.linkedin.com/in/ajnur-radovic)
-[![Gmail](https://i.stack.imgur.com/gVE0j.png) Ajnur](ajnurradovic1@gmail.com)
+[![Gmail](https://camo.githubusercontent.com/b0e2ab2db780e685042a317e421bffe0c8c1e19f587f846b4f98e3ec97a62af6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d69736c656d70656e797769732d6330333932623f7374796c653d666c6174266c6162656c436f6c6f723d633033393262266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465) Ajnur](ajnurradovic1@gmail.com)
 
 
 - 🌱 I’m currently learning ... Node React Native 
