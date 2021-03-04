@@ -44,7 +44,7 @@ My Resume
 
 <strong>Profile Visits</strong> 
 
-![Visitor Count](https://profile-counter.glitch.me/{tekila/12}/count.svg)
+![HitCount](http://hits.dwyl.com/tekila/12/react-native-image-modal.svg)
 
 
 
