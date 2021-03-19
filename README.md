@@ -17,7 +17,7 @@ I am Ajnur. I'm a self taught front end developer. I spend most of time learning
 <img src='https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341'                           width="124" height="24"   alt='Ajnur'>
 </img>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYnGbJ-pu-oDYspe4sFSVIrQjdr0P0Kku8g&usqp=CAU' width="124" height="24" alt='Ajnur'></img> 
-<img src='https://miro.medium.com/max/3242/1*WgiC7P0tNvtHMnhMztIO5Q.png'> 
+<img src='https://miro.medium.com/max/3242/1*WgiC7P0tNvtHMnhMztIO5Q.png' width="124" height="24" alt='Ajnur'> 
 - 😄 Most used line of code git commit -m "Initial Commit"
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
