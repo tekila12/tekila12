@@ -25,6 +25,7 @@ I'am a self taught front end developer. I spend most of time learning new techno
 <strong>Top Technologies</strong>
 
 <a>
+<img src='https://www.datocms-assets.com/45470/1631026680-logo-react-native.png' width="40" height="40" alt='Ajnur'></img> 
 <img src='https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png' width="40" height="40" alt='Ajnur'></img> 
 <img src='https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png' width="40" height="40" alt='Ajnur'></img> 
 <img src='http://tailwind1-wpengine.netdna-ssl.com/wp-content/uploads/2014/03/logo-1024x274.png' width="139" height="29" alt='Ajnur'></img> 
