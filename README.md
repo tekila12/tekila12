@@ -38,7 +38,7 @@ I'am a self taught front end developer. I spend most of time learning new techno
 
 My Resume
 
-<a href='https://windows-rec.netlify.app/images/icons/WebResume.pdf'>
+<a href='https://windows-recreation.netlify.app/images/icons/AjnurFrontResume.pdf'>
  <img src='https://img2.pngio.com/resume-icons-free-download-png-and-svg-resume-icon-png-200_200.png' >
  </img>
 </a>
