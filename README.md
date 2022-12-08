@@ -60,7 +60,7 @@ My Resume
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tekila12&theme=radical&show_icons=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tekila121&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tekila12&theme=Javascript-dark)](https://git.io/streak-stats)
 
 
 
