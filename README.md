@@ -35,7 +35,7 @@ I'am a self taught Front-end developer/Mobile Developer. I spend most of time le
 <img src='https://camo.githubusercontent.com/8e4a668bb3e69b0ab12ff19e5038b089ea85543993268a965f6cebe6ca2b4d9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642'/>
 
 </img>
-<img  width="124" height="24" alt='Ajnur' src=https://miro.medium.com/max/724/0*oGyg1mbyXIHa3TIX.png'/>
+<img  width="124" height="24" alt='Ajnur' src='https://miro.medium.com/max/724/0*oGyg1mbyXIHa3TIX.png'/>
 
 </img>
 
