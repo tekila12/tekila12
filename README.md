@@ -1,7 +1,7 @@
 ### Hi I'am Ajnur 👋
 
 
-I'am a self taught Front-end developer/Mobile Developer. I spend most of time learning new technologies, and new stuff.
+I'am a Front-end developer/Mobile Developer. I spend most of time learning new technologies, and new stuff.
 
 
 - 🔭 Here is how you can reach me
