@@ -16,7 +16,7 @@ I'am a Front-end developer/Mobile Developer. I spend most of time learning new t
 
 - 👯 I worked as Front-end/Mobile Dev(React-native) at the SmartRoom Company
 - 🌱 I’am currently learning 
-<img src='https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341'                           width="124" height="24"   alt='Ajnur'>
+<img src='https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341'                           width="124" height="24"   alt='Ajka'>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMlDZI7NR4vOkMzmZz-69rC3GIVW_LxxRlDASPk4n8c9nGUvfJGik6RqUEcOnWqrmGto&usqp=CAU'                           width="124" height="28"   alt='Ajnur'>
 
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHyg1qe3UEOiDvrXzEhamblatPaN7tF-RccnQy-PlfzA7QgIdz-FHETXKRUdKhy1h1AE&usqp=CAU'                           width="124" height="34"   alt='Ajnur'>
