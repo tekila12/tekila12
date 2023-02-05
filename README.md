@@ -30,7 +30,7 @@ I'am a Front-end developer/Mobile Developer. I spend most of time learning new t
 <a>
 <img src='https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png' width="40" height="40" alt='Ajnur'></img> 
 <img src='https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png' width="40" height="40" alt='Ajnur'></img> 
-<img src='https://miro.medium.com/max/712/0*QXkyD4rFK7ivYf9-.png' width="139" height="29" alt='Ajnur'></img> 
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV3bJxbT-eA4cOWHbQHqxy3ZilAbcAzMvoYU6ujMefTF-kM17ROKXlZuYNKpRA4-Iesw&usqp=CAU' width="139" height="29" alt='Ajnur'></img> 
 </a>
 <img src='https://camo.githubusercontent.com/82cd498d68f1929233bffb5d3bd2229cb0a97728b4983ee3a607c1941a9c9b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446'/>
 <img src='https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341'                           width="124" height="24"   alt='Ajka'>
