@@ -49,7 +49,7 @@ I'am a Front-end developer/Mobile Developer. I spend most of time learning new t
 
 My Resume
 
-<a href='https://windows-recreation.netlify.app/images/icons/frontEnd.pdf'>
+<a href='https://windows-recreation.netlify.app/images/icons/frontEnd.pdf' >
  <img src='https://img2.pngio.com/resume-icons-free-download-png-and-svg-resume-icon-png-200_200.png' >
  </img>
 </a>
