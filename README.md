@@ -8,7 +8,7 @@ I'am a Front-end developer/Mobile Developer. I spend most of time learning new t
  
      [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://linkedin.com/in/ajnur-radovic)
      <a href='mailto:ajnurradovic1@gmail.com'>
-     <img src='https://findicons.com/files/icons/1696/once/48/mail.png' width="14" height="14" alt='Ajnur'/>
+     <img src='https://findicons.com/files/icons/1696/once/48/mail.png' width="19" height="19" alt='Ajnur'/>
      Gmail
      </a>
 
@@ -66,7 +66,7 @@ My Resume
 
 
 
-<strong>GithubStats</strong>
+<strong>Github Stats</strong>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tekila12&theme=radical&show_icons=true&count_private=true)
 
@@ -77,6 +77,6 @@ My Resume
 
 
 
-<strong>Most used languages</strong>
+<strong>Most used programming languages</strong>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tekila12)
