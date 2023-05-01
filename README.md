@@ -14,7 +14,7 @@ I'am a Front-end developer/Mobile Developer. I spend most of time learning new t
 
 
 
-- 👯 I worked as Front-end/Mobile Dev(React && React-native) at the SmartRoom Company
+- 👯 I worked as Front-end/Mobile Dev using these libraries(React && React-native) at the SmartRoom Company
 - 🌱 I’am currently learning 
 
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsMlDZI7NR4vOkMzmZz-69rC3GIVW_LxxRlDASPk4n8c9nGUvfJGik6RqUEcOnWqrmGto&usqp=CAU'                           width="124" height="28"   alt='Ajnur'>
